@@ -1,0 +1,35 @@
+<family>
+	<familysecret>
+		Our little secret.
+In a file.
+	</familysecret>
+	<members>
+		<person>
+			<name>
+				Miranda
+			</name>
+			<age>
+				56
+			</age>
+		</person>
+		<person>
+			<name>
+				Greham
+			</name>
+			<age>
+				54
+			</age>
+		</person>
+		<person>
+			<name>
+				Maria
+			</name>
+			<age>
+				16
+			</age>
+		</person>
+	</members>
+	<count>
+		3
+	</count>
+</family>
